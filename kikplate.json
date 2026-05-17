@@ -1,0 +1,15 @@
+{
+    "version": "0.12.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/kikplate/kikplate/releases/download/v0.12.0/kikplate-0.12.0-windows-amd64.zip",
+            "bin": [
+                "kikplate-0.12.0-windows-amd64.exe"
+            ],
+            "hash": "9191b11dc9a0b786ad3b1a6fb2e61a1727c06c6035287e355e6c2b50e8eb0e02"
+        }
+    },
+    "homepage": "https://github.com/kikplate/kikplate",
+    "license": "Apache-2.0",
+    "description": "Command-line interface for the Kikplate plate registry"
+}
