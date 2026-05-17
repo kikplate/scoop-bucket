@@ -1,12 +1,12 @@
 {
-    "version": "0.12.0",
+    "version": "0.13.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kikplate/kikplate/releases/download/v0.12.0/kikplate-0.12.0-windows-amd64.zip",
+            "url": "https://github.com/kikplate/kikplate/releases/download/v0.13.0/kikplate-0.13.0-windows-amd64.zip",
             "bin": [
-                "kikplate-0.12.0-windows-amd64.exe"
+                "kikplate-0.13.0-windows-amd64.exe"
             ],
-            "hash": "9191b11dc9a0b786ad3b1a6fb2e61a1727c06c6035287e355e6c2b50e8eb0e02"
+            "hash": "51ab366be12d8cf9192b205c7d5de4f2b737d6ad623aae9660e7e9242f05ac24"
         }
     },
     "homepage": "https://github.com/kikplate/kikplate",
